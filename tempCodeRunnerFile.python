@@ -1,0 +1,3 @@
+print("Welcome to the Travel Game \n Pick a destination: \n Hyderabad \n Ooty \n Gir Forest")
+dest = input()
+print(dest)
